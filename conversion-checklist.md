@@ -7,7 +7,7 @@
 >
 > `- [x] **Conversion research** — follow ... → output: docs/conversion-research.md  completed:09/06/2026`
 
-**Workflow:** <name of the workflow being ported>
+**Workflow:** Bike Tours Vosges - Travel-File AI Agent v5.7 (password on background start, 24 Sept)
 **Skill source:** `/root/.claude/skills/n8n-to-app` · https://github.com/calmmage/n8n-to-app-skill.git
 **Started:** 05/10/2026
 
@@ -17,8 +17,8 @@
 
 - [x] **Scaffold repo** — run `scripts/scaffold.py` (skeleton: `AGENTS.md` stub, `make help` / `make run`, this checklist). Just run it.
       → output: repo skeleton  completed:05/10/2026
-- [ ] **Conversion research** — follow `instructions/01-research.md` (one unified pass: what the workflow does, integrations, creds, triggers, data flow, n8n freebies)
-      → output: `docs/conversion-research.md`
+- [x] **Conversion research** — follow `instructions/01-research.md` (one unified pass: what the workflow does, integrations, creds, triggers, data flow, n8n freebies)
+      → output: [`docs/conversion-research.md`](docs/conversion-research.md)  completed:05/10/2026
 - [ ] **Port plan** — follow `instructions/02-plan.md` (migration mode: direct vs rework · node→code mapping · frontend choice)
       → output: `docs/port-plan.md`
 - [ ] **Build** — follow `instructions/03-build.md`
