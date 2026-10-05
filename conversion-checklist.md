@@ -9,6 +9,7 @@
 
 **Workflow:** Bike Tours Vosges - Travel-File AI Agent v5.7 (password on background start, 24 Sept)
 **Skill source:** `/root/.claude/skills/n8n-to-app` · https://github.com/calmmage/n8n-to-app-skill.git
+**Decision 05/10/2026:** staying on n8n — see [`docs/why-n8n.md`](docs/why-n8n.md). The phases below are not pursued.
 **Started:** 05/10/2026
 
 ---
